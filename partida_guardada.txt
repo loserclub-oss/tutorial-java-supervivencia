@@ -1,0 +1,3 @@
+Salud: 85
+Inventario: Espada de Madera, Pocion de Salud
+Dia Actual: 5
